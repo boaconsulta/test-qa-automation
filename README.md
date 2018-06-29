@@ -17,13 +17,13 @@ This test is for we know your skills in automated testing.
 ### Guidelines
 First, make a fork and clone the project in your computer and create a new branch with your-name.
 
-After setup project you will need this instructions for make your application:
+After setup repository, you will need this instructions for make your script:
 
-1. Create a patient account in boaconsulta.com
-2. Create a test coverage for login feature
-3. Submit a pull request and send mail to dev@boaconsulta.com
+1. Create a patient account in boaconsulta.com;
+2. Create a test coverage for login feature;
+3. Submit a pull request and send mail to dev@boaconsulta.com.
 
 ### We will be happy if
-1. Differents tests for desktop and mobile resolutions
+1. Differents tests for desktop and mobile resolutions.
 
 ![Made With Love](https://forthebadge.com/images/badges/built-with-love.svg)
