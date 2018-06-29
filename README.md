@@ -23,7 +23,10 @@ After setup repository, you will need this instructions for make your script:
 2. Create a test coverage for login feature;
 3. Submit a pull request and send mail to dev@boaconsulta.com.
 
+### Requirements
+* Emulate a browser with Selenium, Capybara, Cypress or any other technology.
+
 ### We will be happy if
-1. Differents tests for desktop and mobile resolutions.
+* Differents tests for desktop and mobile resolutions.
 
 ![Made With Love](https://forthebadge.com/images/badges/built-with-love.svg)
