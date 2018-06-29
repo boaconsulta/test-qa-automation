@@ -12,7 +12,7 @@ BoaConsulta is a appointment booking service online for patient find doctors. An
 [boaconsulta.recruiterbox.com](https://boaconsulta.recruiterbox.com)
 
 ### Test for Automation QA at BoaConsulta.com
-This test is for we know your skills in automated tests.
+This test is for we know your skills in automated testing.
 
 ### Guidelines
 First, make a fork and clone the project in your computer and create a new branch with your-name.
@@ -24,6 +24,6 @@ After setup project you will need this instructions for make your application:
 3. Submit a pull request and send mail to dev@boaconsulta.com
 
 ### We will be happy if
-1. Differents tests for desktop and mobile resolutions.
+1. Differents tests for desktop and mobile resolutions
 
 ![Made With Love](https://forthebadge.com/images/badges/built-with-love.svg)
